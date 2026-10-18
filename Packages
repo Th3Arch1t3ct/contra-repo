@@ -1,19 +1,20 @@
 Package: com.th3arch1t3ct.homefree
 Architecture: iphoneos-arm64
-Version: 1.0.0
+Version: 1.0.1
 Section: Tweaks
 Maintainer: GR
 Installed-Size: 392
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/com.th3arch1t3ct.homefree_1.0.0_iphoneos-arm64.deb
-Size: 22200
-MD5sum: 774e3e9c78684b57ed9aef6fb0320533
-SHA1: 3af54861a19295d64484151d0cdd245ffaa4e088
-SHA256: efe9edcc2f238b5acce20a4852e93bfe91b0efe12687bd98a1ad0c0965b51da7
-SHA512: ff844860370950fa78f3c4ca169a0362edaa760bb98def281ff37542e8724a90b54fd9641752a037b1f26e1b8bd3f20d474f23320a74d496b7aeaaef0798aca1
+Filename: debs/com.th3arch1t3ct.homefree_1.0.1_iphoneos-arm64.deb
+Size: 22242
+MD5sum: 984dc58de724d48cddd1393b14b4199e
+SHA1: a509085ccef267a3eeace868c8ba7edc2c48438e
+SHA256: 87ed17858f1e65bfeee784e1d44107b700dabed265dfa0c2fab2575d18473c66
+SHA512: 79eaca836cfdde1b06a076de3def44f2fb139f140762fff23a52001da5db00ed2b42a6c68b1514a7ac33b875d12c4549c897233054f701a819f9c1b0bc6304b6
 Description: Put apps anywhere on your Home Screen. Drag an app into any empty spot and it stays there, gaps and all, instead of sliding to the next free space. Its settings are in the Settings app.
 Name: Home Free
 Author: GR
+Icon: https://th3arch1t3ct.github.io/riot-repo/homefree.png
 
 Package: com.th3arch1t3ct.riot
 Architecture: iphoneos-arm64
@@ -23,11 +24,11 @@ Maintainer: GR
 Installed-Size: 556
 Depends: uikittools, firmware (>= 16.0)
 Filename: debs/com.th3arch1t3ct.riot_0.5.2_iphoneos-arm64.deb
-Size: 189466
-MD5sum: 55d5ce719397200dcc25b5a9092f3682
-SHA1: 5c3b806953f099bc4d17e8a26016bf859fd322f1
-SHA256: 1001cae874ec14179799c37a067929e2fcb3779f890b9b4ef3d2ca580781bdd9
-SHA512: b39bc059e135ee30530e4773792cdea6b7c0b77a68ebf248b7ee03578e5d98a380f048e077bf27637a7c8f99b6501b72344139a42621235da623c4a20e71066a
+Size: 189518
+MD5sum: 4a06a1aabb33dd786d88d08cb9c98dce
+SHA1: 78b8f5f872f6a59ce19e31f21c046f9375e23c3a
+SHA256: be910399dbd3e13e455f7e067957b97d83d9576311e781c17fdfcbc64f95be4b
+SHA512: f0478875e831ccfb0d50f117aba670fe948eadcaf21a309b2381fcdbfb2110b607666717c44fd86f090a137e0862a0c0f16f6f73d2152e59f46c02002afe73d5
 Description: Turn several iPhones into one video wall: split a video across them in sync, or give each group its own. Also a simulated Lock Screen and Home Screen with full-screen photos, GIFs and videos.
 Name: Riot
 Author: GR
