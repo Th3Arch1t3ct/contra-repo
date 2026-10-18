@@ -1,24 +1,24 @@
 Architectures: iphoneos-arm64
 Codename: ios
 Components: main
-Date: Sun, 18 Oct 2026 19:51:17 +0000
+Date: Sun, 18 Oct 2026 20:48:43 +0000
 Description: GR's packages
 Label: Riot Repo
 Origin: Riot Repo
 Suite: stable
 MD5Sum:
- 60085c27a41b5b105c8948b85535b35c              829 Packages
- 79c051d360216e18e26ca2ba3647715e              620 Packages.bz2
- 42b43bd29449adb4c595a37f7f6185af              580 Packages.gz
+ cd2b318c49ec457d47df2772651e1b3f              829 Packages
+ 43832acd045b2ddbebdd0525afec20b6              624 Packages.bz2
+ 56139397fbec1e2a2ecb7f2f54a020ca              578 Packages.gz
 SHA1:
- c977677f18823a09ad59afe16ba589e0047271f3              829 Packages
- 006f0ca01f7551e58ca7c8d5d9ff63de7c178432              620 Packages.bz2
- 7ff659a962138578ad9256a5eb556718a8c0875d              580 Packages.gz
+ e81ff42e614ee503546da2ec3d00aa9651e36f56              829 Packages
+ 0473593621da9dd86576bb1be523a4ce7a1df3a4              624 Packages.bz2
+ f90f10e4b6f6fcac84675e4511b9845d255327da              578 Packages.gz
 SHA256:
- 7266c6f5cc0049bf6ad59976da3b6ad253b5449d844dcbe358178cbb3e858b9e              829 Packages
- 311d4cd0f0fbc628a74a6a5a4e4c12f3a04fcd9cd67a420f337e50664119490b              620 Packages.bz2
- edab4070ced5387f484aeea1baafdc8dbbefd0c1636e76fdeb07bf09aa646e63              580 Packages.gz
+ 0b70d1c3008291a0f1d8ca2f6d379dc5c1fffbc0c4ec75970c2d5a77a8740f1e              829 Packages
+ 64d9a9f3253df049d3f394e6e42ee29a706e3dedf664e8a6a63aa1759792ab3e              624 Packages.bz2
+ df0c60767920e83e179dcdb7bf0db4dbb70e4549fa16f26bbd00e4afab7a84b0              578 Packages.gz
 SHA512:
- e08833259c337ae7be9684418d8918c8a674ade32eb8771ce3e305f2406f525421739e4788dbd008645961cdab1f32e6ec5f3f9af4b1d9cbb19662f3a6e075bf              829 Packages
- 5c07429130506f9da50ba6cd9d90a113f16e739ba638b9a8d5f3af7b0ba454a528ac9cd070a83f910fd73de5ec3016da8b826b038f574900d2a3ca3dfe889750              620 Packages.bz2
- 4e406a28f3fa8da8e2758683832a6e2d447c4c836ee4f010ec8ef83e49e6a4fc9fed16793a8e95afa50aba077a8312bcff9d3fbe38566d6d81a9d76309820cbd              580 Packages.gz
+ cd28f05b9c22a5bc53cab05b39a13f3d2a9e630c8e22880df277d971529f91055abd6b8be5acc7be0a6c21f7bf6f0a2c0c6ddfa90d5df8147df381684f98ade7              829 Packages
+ 4d0e5122f990c44f8f1faa672df21420b5abade5eeedf7abf7ce5e789af21fa1c848866d16324587e67428397637d6986cc8e265f8db1992c63e5e734ec6c545              624 Packages.bz2
+ 13c80299421dbbc3fa74d81ba711dce46a696e1bd2be8a516cc5a9a6850a358b64af4512460a0a1cf6d6717d5f36ab4ba186dd375d021bc8912173daebbeeb5b              578 Packages.gz

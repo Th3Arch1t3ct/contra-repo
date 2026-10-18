@@ -1,16 +1,16 @@
 Package: com.th3arch1t3ct.riot
 Architecture: iphoneos-arm64
-Version: 0.5.2
+Version: 0.6.0
 Section: Applications
 Maintainer: GR
-Installed-Size: 556
+Installed-Size: 700
 Depends: uikittools, firmware (>= 16.0)
-Filename: debs/com.th3arch1t3ct.riot_0.5.2_iphoneos-arm64.deb
-Size: 189400
-MD5sum: 90bc5ccfb089a7c3cc75a7002ab297d5
-SHA1: 2c35cd7c48e0535fd183dc0d0a68d96d8a23bcf9
-SHA256: c8a581ec45d075abb1a5388da7c6df23ab6530e3342ec86d53c874233ec611d0
-SHA512: bb79a52ee6972a80e183ca581afb293a0e4e05efbf228ba77494d5d1f9e9e7b54944b57d78e9f7cdea6acb0e9dfcdc64380a808f655a6a7af715b2fa0a0ca422
+Filename: debs/com.th3arch1t3ct.riot_0.6.0_iphoneos-arm64.deb
+Size: 231484
+MD5sum: b1332a75af47ba120d0c2f248e61b779
+SHA1: db84211884f7d5a9ed6914a63d42c5080562322f
+SHA256: 2854ae8b843d8b8407fcb497ee6c7f4d602d6c741311afe0b28311d26df4ee75
+SHA512: 3c193204d68fee3d82eb2d8f65417e645df68eb3cc91309e13fe0431298101139d5a6c2c0824ab8552c1eef52336a2e3bb19c4c08e38369bd98ef0920ec5174f
 Description: Turn several iPhones into one video wall: split a video across them in sync, or give each group its own. Also a simulated Lock Screen and Home Screen with full-screen photos, GIFs and videos.
 Name: Riot
 Author: GR
