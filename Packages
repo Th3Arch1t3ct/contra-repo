@@ -1,21 +1,3 @@
-Package: com.th3arch1t3ct.homefree
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Tweaks
-Maintainer: GR
-Installed-Size: 392
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/com.th3arch1t3ct.homefree_1.0.1_iphoneos-arm64.deb
-Size: 22242
-MD5sum: 984dc58de724d48cddd1393b14b4199e
-SHA1: a509085ccef267a3eeace868c8ba7edc2c48438e
-SHA256: 87ed17858f1e65bfeee784e1d44107b700dabed265dfa0c2fab2575d18473c66
-SHA512: 79eaca836cfdde1b06a076de3def44f2fb139f140762fff23a52001da5db00ed2b42a6c68b1514a7ac33b875d12c4549c897233054f701a819f9c1b0bc6304b6
-Description: Put apps anywhere on your Home Screen. Drag an app into any empty spot and it stays there, gaps and all, instead of sliding to the next free space. Its settings are in the Settings app.
-Name: Home Free
-Author: GR
-Icon: https://th3arch1t3ct.github.io/riot-repo/homefree.png
-
 Package: com.th3arch1t3ct.riot
 Architecture: iphoneos-arm64
 Version: 0.5.2
@@ -24,11 +6,11 @@ Maintainer: GR
 Installed-Size: 556
 Depends: uikittools, firmware (>= 16.0)
 Filename: debs/com.th3arch1t3ct.riot_0.5.2_iphoneos-arm64.deb
-Size: 189518
-MD5sum: 4a06a1aabb33dd786d88d08cb9c98dce
-SHA1: 78b8f5f872f6a59ce19e31f21c046f9375e23c3a
-SHA256: be910399dbd3e13e455f7e067957b97d83d9576311e781c17fdfcbc64f95be4b
-SHA512: f0478875e831ccfb0d50f117aba670fe948eadcaf21a309b2381fcdbfb2110b607666717c44fd86f090a137e0862a0c0f16f6f73d2152e59f46c02002afe73d5
+Size: 189400
+MD5sum: 90bc5ccfb089a7c3cc75a7002ab297d5
+SHA1: 2c35cd7c48e0535fd183dc0d0a68d96d8a23bcf9
+SHA256: c8a581ec45d075abb1a5388da7c6df23ab6530e3342ec86d53c874233ec611d0
+SHA512: bb79a52ee6972a80e183ca581afb293a0e4e05efbf228ba77494d5d1f9e9e7b54944b57d78e9f7cdea6acb0e9dfcdc64380a808f655a6a7af715b2fa0a0ca422
 Description: Turn several iPhones into one video wall: split a video across them in sync, or give each group its own. Also a simulated Lock Screen and Home Screen with full-screen photos, GIFs and videos.
 Name: Riot
 Author: GR
