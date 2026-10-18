@@ -6,28 +6,28 @@ Maintainer: GR
 Installed-Size: 392
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: debs/com.th3arch1t3ct.homefree_1.0.0_iphoneos-arm64.deb
-Size: 22196
-MD5sum: 5ff35bfc8d8d410e69bbf07369598e86
-SHA1: 93ef3c6def783bbf17454cf2c52ec50e467ab877
-SHA256: 02673646f95332d6d1d1977c24441da50c236b4be0be4e89b6d8eb0c3b3c102a
-SHA512: 18789a238208ba47d93ec9ae931e4dd564ccf90b5e34e5d2e3077d45c70b3214b7346ccefa1dde08bb2169ff59d7a28146fa3183921beff576a2bc4832f85a6d
+Size: 22200
+MD5sum: 774e3e9c78684b57ed9aef6fb0320533
+SHA1: 3af54861a19295d64484151d0cdd245ffaa4e088
+SHA256: efe9edcc2f238b5acce20a4852e93bfe91b0efe12687bd98a1ad0c0965b51da7
+SHA512: ff844860370950fa78f3c4ca169a0362edaa760bb98def281ff37542e8724a90b54fd9641752a037b1f26e1b8bd3f20d474f23320a74d496b7aeaaef0798aca1
 Description: Put apps anywhere on your Home Screen. Drag an app into any empty spot and it stays there, gaps and all, instead of sliding to the next free space. Its settings are in the Settings app.
 Name: Home Free
 Author: GR
 
 Package: com.th3arch1t3ct.riot
 Architecture: iphoneos-arm64
-Version: 0.5.1
+Version: 0.5.2
 Section: Applications
 Maintainer: GR
-Installed-Size: 628
+Installed-Size: 556
 Depends: uikittools, firmware (>= 16.0)
-Filename: debs/com.th3arch1t3ct.riot_0.5.1_iphoneos-arm64.deb
-Size: 247822
-MD5sum: ea9f6d8ca6ee4cb4c301498a497a8693
-SHA1: 6649e7a984341ecc6fe52a50ac9d18271f76ee47
-SHA256: 4b87515e06df6c52eccf0f9aa025472e372df117bca8518917306c720d9a14d3
-SHA512: 7ce7767bff779e0f8c9f37062a5b82c1aa5c2afe779eb112336f2a9e82cff8f7128dbcbbbe962d093ec1b40ca4ab627d0bfbfdae3dec9115b15e44d7472c79f4
+Filename: debs/com.th3arch1t3ct.riot_0.5.2_iphoneos-arm64.deb
+Size: 189466
+MD5sum: 55d5ce719397200dcc25b5a9092f3682
+SHA1: 5c3b806953f099bc4d17e8a26016bf859fd322f1
+SHA256: 1001cae874ec14179799c37a067929e2fcb3779f890b9b4ef3d2ca580781bdd9
+SHA512: b39bc059e135ee30530e4773792cdea6b7c0b77a68ebf248b7ee03578e5d98a380f048e077bf27637a7c8f99b6501b72344139a42621235da623c4a20e71066a
 Description: Turn several iPhones into one video wall: split a video across them in sync, or give each group its own. Also a simulated Lock Screen and Home Screen with full-screen photos, GIFs and videos.
 Name: Riot
 Author: GR
