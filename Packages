@@ -1,19 +1,19 @@
 Package: com.th3arch1t3ct.contra
 Architecture: iphoneos-arm64
-Version: 0.7.0
+Version: 0.8.0
 Section: Applications
 Maintainer: GR
-Installed-Size: 700
+Installed-Size: 564
 Depends: uikittools, firmware (>= 16.0)
 Conflicts: com.th3arch1t3ct.riot
 Replaces: com.th3arch1t3ct.riot
-Filename: debs/com.th3arch1t3ct.contra_0.7.0_iphoneos-arm64.deb
-Size: 230828
-MD5sum: 29597333f6baf497c00762be26faab6f
-SHA1: 53932e3b58900476b72914aa079f34f01673038c
-SHA256: 4dde1532c9d1b6ef3cfa5e1e75bbb33d0b4def7cba323310862549fa80ebc10a
-SHA512: 28711ba7dd28fc6d5c321225418db53c7d1e7cfa1552a10574612af361737ef379910b55fb1c9890de968b784c51890cd6f48c4dea8b67d8f119547712688859
-Description: Turn several iPhones into one video wall: split a video across them in sync, or give each group its own. Also a simulated Lock Screen and Home Screen with full-screen photos, GIFs and videos.
+Filename: debs/com.th3arch1t3ct.contra_0.8.0_iphoneos-arm64.deb
+Size: 197866
+MD5sum: e660feb14fc943d91b48684354e9798a
+SHA1: b789a4a596371246f6e7cce4fbc8253b1d111f81
+SHA256: 07f2d1d9fb79145e6517daf56bf02231fc1c3a21a02b52ab9965ccaea1dd53bf
+SHA512: 2b710bc19b1cdbc56ae49670cfb1627d006eefe4d0cdc5169ec4117f4281141ff197e199655709f8e50ab6c20bc7f89f09604752cdce14a1ed2eb5bd3270d28c
+Description: Turn several iPhones into one video wall: split a video across them in sync, or give each group its own.
 Name: Contra
 Author: GR
 Icon: https://th3arch1t3ct.github.io/contra-repo/icon.png
